@@ -4,10 +4,9 @@ Below are a collection of some of the Data-based projects i've contributed to.
 
 ## Love Island Season 9
 [https://github.com/kimathinyota/LoveIslandDashboardS9](https://github.com/kimathinyota/LoveIslandDashboardS9)
-Created a dashboard to exlpore the changing popularity of S9 Love Island contestants on the r/LoveIslandTV subreddit throughout the show's runtime. 
+Created a dashboard to exlpore the changing popularity of S9 Love Island contestants on the r/LoveIslandTV subreddit throughout the show's runtime. [View Dashboard here](https://kimathinyota-loveislanddashboards9-love-island-dashboard-s5d1yf.streamlit.app/)
 
 ### Solution
-[See Dashboard](https://kimathinyota-loveislanddashboards9-love-island-dashboard-s5d1yf.streamlit.app/)
 Comments and post data and metadata were collected daily after each episode and stored in a database. Python was used to analyse for each contestant their mentions, associations, sentiments and relevance over and during the season. 
 
 ### Skills developed/Technology Stack
