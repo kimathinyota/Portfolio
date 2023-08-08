@@ -71,4 +71,3 @@ Below shows the simulation running for 12 agents in a limited-resource environme
 * Python (matplotlib) for data visualisation
 * MySQL database and SQL for storing and processing experimental data
 
-
