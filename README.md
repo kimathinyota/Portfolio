@@ -24,8 +24,15 @@ Comments and post data and metadata were collected daily after each episode and 
 
 As a capstone project to earn the Google Data Analytics Certificate, I created a report in R analysing the data (and detailing my approach) for a given (fictional) company.
 
+
 ### Solution
 Using generated data for a fictional bike-share company, Cyclistics, to: investigate the differences between members and casual riders in their usage of Cyclistic bikes to better understand how to convert casual riders into members.
+
+For example: The graphic is taken from the final report and highlights the areas with fewer members than casuals that the company can target 
+
+![](Images/StationLocationChicagoFewerMembers.png)
+
+[See full report here](https://htmlpreview.github.io/?https://github.com/kimathinyota/CyclisticAnalysis/blob/main/CyclisticsFindings.html ) 
 
 ### Skills developed/Technology Stack
 * Python (pandas) to merge multiple CSV files into a single large one
